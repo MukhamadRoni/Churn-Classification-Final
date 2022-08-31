@@ -18,7 +18,7 @@
 - SatisfactionScore = tingak kepuasan pelanggan (mungkin diambil dalam bentuk review bintang)
 - MaritalStatus = status pernikahan customer
 - NumberOfAddress = total alamat yang ditambahkan pada tiap customer
-- Complain = apakah ada keluhan pada customer tersebut bulan lalu
+- Complain = apakah ada keluhan oleh customer tersebut bulan lalu
 - OrderAmountHikeFromlastYear = peningkatan presentase pembelian dari tahun lalu
 - CouponUsed = total kupon yang digunakan pada bulan lalu
 - OrderCount = jumlah pesanan yang dilakukan pada bulan kemarin
