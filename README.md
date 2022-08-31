@@ -3,6 +3,7 @@
 #### main file 'Churn_FInal.ipynb'
 #### visualitzation file 'visualisasi.pbix'
 #### modeling file 'Churn_rf.pkl'
+#### main dataset file 'commerce dataset.xlx'
 
 - Customer ID = Id tiap customer
 - Churn = Label customer churn atau tidak (1 Churn dan 0 tidak Churn)
