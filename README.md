@@ -1,8 +1,8 @@
 # Churn-classification
 
-main file 'Churn_FInal.ipynb'
-visualitzation file 'visualisasi.ipbx'
-modeling file 'Churn_rf.pkl'
+#### main file 'Churn_FInal.ipynb'
+#### visualitzation file 'visualisasi.pbix'
+#### modeling file 'Churn_rf.pkl'
 
 - Customer ID = Id tiap customer
 - Churn = Label customer churn atau tidak (1 Churn dan 0 tidak Churn)
